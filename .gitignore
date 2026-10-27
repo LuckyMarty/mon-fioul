@@ -1,0 +1,5 @@
+node_modules/
+dist/
+server/fioul.db
+server/fioul.db-shm
+server/fioul.db-wal
